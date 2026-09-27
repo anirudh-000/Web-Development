@@ -33,6 +33,7 @@
         "editor.wordWrap": "on",
         "editor.formatOnPaste": true,
         "files.autoSave": "onFocusChange",
+        "explorer.compactFolders": false,
         "[javascript]": {
           "editor.defaultFormatter": "esbenp.prettier-vscode",
           "editor.formatOnSave": true
